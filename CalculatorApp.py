@@ -22,8 +22,8 @@ class CalculatorApp:
 if __name__ == "__main__":
     calc = CalculatorApp()
 
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
+    num1 = float(input("Enter the first no: "))
+    num2 = float(input("Enter the second no: "))
 
     print("Select operation:")
     print("1. Add")

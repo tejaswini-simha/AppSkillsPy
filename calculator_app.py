@@ -1,17 +1,22 @@
+"""
+    Provides some arithmetic functions
+"""
 class CalculatorApp:
-    
+    """
+    Provides some arithmetic functions
+    """
     def add(self, a, b):
         """Return the sum of two numbers."""
         return a + b
-    
+
     def subtract(self, a, b):
         """Return the difference of two numbers."""
         return a - b
-    
+
     def multiply(self, a, b):
         """Return the product of two numbers."""
         return a * b
-    
+
     def divide(self, a, b):
         """Return the quotient of two numbers."""
         if b == 0:

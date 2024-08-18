@@ -1,0 +1,22 @@
+# Example of a CODEOWNERS file
+
+# Each line specifies a file pattern followed by one or more owners
+# Owners can be individual GitHub usernames or teams (in organizations)
+
+# All files in the repository
+* @tejaswini-simha @tejaswinisimha1110
+
+# Specific file
+# path/to/file @username
+
+# All files in a directory
+# path/to/directory/ @teamname
+
+# Files with a specific extension
+# *.js @frontend-team @username
+
+# Multiple owners for a directory
+# src/components/ @username1 @username2 @teamname
+
+# Different owners for different files
+# README.md @docs-team

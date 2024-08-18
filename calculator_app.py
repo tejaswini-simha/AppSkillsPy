@@ -2,7 +2,9 @@
     Provides some arithmetic functions
 """
 class CalculatorApp:
-
+    """
+    Provides some arithmetic functions
+    """
     def add(self, a, b):
         """Return the sum of two numbers."""
         return a + b
